@@ -1,0 +1,84 @@
+.containersignin {
+    flex: 1;
+    justify-content: center;
+    align-Items: center;
+    background-Color: #38230D;
+}
+
+.imagesignin {
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-Items: stretch;
+    background-Color: #E4E1D6;
+}
+
+.containerlist {
+    flex: 4;
+    flex-direction: row;
+    justify-content: center;
+    align-Items: stretch;
+    background-Color: blue;
+}
+
+.welcome {
+    font-size: 20px;
+    font-family: AvenirNext-UltraLight;
+    text-align: center;
+    margin: 20px;
+    color: #D68130;
+
+}
+
+.welcomecontainer {
+    background-color: rgba(245, 252, 255, 0.1);
+    border-radius: 5%;
+}
+
+.instructions {
+    text-align: center;
+    font-size: 15px;
+
+    font-family: AvenirNext-UltraLight
+
+}
+
+.backdrop {
+    height: 90;
+    width: 120;
+    border-radius: 10;
+}
+
+.pills {
+    height: 30;
+    width: 20;
+    margin-left: 150;
+}
+
+.rowcontainer {
+    flex: 1;
+    max-width: 340;
+    min-width: 320;
+    height: 54;
+    margin-left:10;margin-right:10;
+    background-Color: #E4E1D6;
+
+
+}
+
+.vcol {
+    font-family: AvenirNext-Regular;
+    font-size: 16;
+    padding: 2;
+    color: #203164;
+    text-align: center;
+
+}
